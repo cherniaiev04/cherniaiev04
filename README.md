@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Oleksandr Cherniaiev.</h1>
 <p>A passionate backend developer from Ukraine, but also have experience in frontend technologies.</p>
 
-<div style="backgroundcolor: white">
+<div style="background-color: white">
 <h2>🚀 Languages</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
