@@ -1,9 +1,8 @@
-<h1>Hi 👋, I'm Oleksandr Cherniaiev.</h1>
-<p>A passionate backend developer from Ukraine, but also have experience in frontend technologies.</p>
+<h1 style="background-color: white;">Hi 👋, I'm Oleksandr Cherniaiev.</h1>
+<p style="background-color: white;">A passionate backend developer from Ukraine, but also have experience in frontend technologies.</p>
 
-<div style="background-color: white">
-<h2>🚀 Languages</h2>
-<p>
+<h2 style="background-color: white;">🚀 Languages</h2>
+<p style="background-color: white;">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
   </a>
@@ -15,8 +14,8 @@
   </a>
 </p>
 
-<h2>🎨 Frontend</h2>
-<p>
+<h2 style="background-color: white;">🎨 Frontend</h2>
+<p style="background-color: white;">
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" />
   </a>
@@ -37,8 +36,8 @@
   </a>
 </p>
 
-<h2>⚙️ Backend</h2>
-<p>
+<h2 style="background-color: white;">⚙️ Backend</h2>
+<p style="background-color: white;">
   <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
   </a>
@@ -50,8 +49,8 @@
   </a>
 </p>
 
-<h2>🛠️ Others</h2>
-<p>
+<h2 style="background-color: white;">🛠️ Others</h2>
+<p style="background-color: white;">
   <a target="_blank" href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="display: inline-block;">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42" />
   </a>
@@ -92,4 +91,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
   </a>
 </p>
-</div>
